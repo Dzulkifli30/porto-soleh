@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "image": "project/project1.png",
+    "title": "Prewedding Photos",
+    "subtitle": "Photos taken before the wedding takes place.",
+    "description": "Prewedding photos capture the love and anticipation of a couple as they prepare for their special day."
+  },
+  {
+    "id": 2,
+    "image": "project/project2.png",
+    "title": "Wedding Photos",
+    "subtitle": "Photography of wedding events and activities.",
+    "description": "Wedding photos focus on the ceremony, celebration, and cherished moments of the couple and their guests."
+  },
+  {
+    "id": 3,
+    "image": "project/project3.png",
+    "title": "Yearbook Photos",
+    "subtitle": "Photo albums and information about students.",
+    "description": "Yearbook photography captures memories of a school year, highlighting students and key events."
+  },
+  {
+    "id": 4,
+    "image": "project/project4.png",
+    "title": "Product Photos",
+    "subtitle": "Pictures of products for marketing and cataloging.",
+    "description": "Product photography showcases items in the best light, ideal for advertising and online stores."
+  }
+]
