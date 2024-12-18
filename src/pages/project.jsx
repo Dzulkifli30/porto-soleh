@@ -30,7 +30,9 @@ export default function Project() {
           </div>
           <div className="flex justify-center gap-10">
             {filteredDetails.map(detail => (
-              <div className="relative px-3 w-1/4 group cursor-pointer">
+              <div 
+              className="relative px-3 w-1/4 group cursor-pointer"
+              onClick={() => navigate(`/project/detail/${detail.id}`)}>
                 <img
                   src={detail.cover}
                   className="w-full rounded-lg h-fit"
